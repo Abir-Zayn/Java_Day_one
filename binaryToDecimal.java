@@ -1,3 +1,5 @@
+// Its a program that shows how an user can print out a binary number to decimal number.
+
 public class binaryToDecimal {
 
     static void binaryDeci(String s){
