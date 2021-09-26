@@ -1,3 +1,4 @@
+//finding the all odd numbers in the range of 1 to 100
 public class oddNumber {
     public static void main(String[] args) {
 
