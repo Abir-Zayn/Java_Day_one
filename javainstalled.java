@@ -1,3 +1,5 @@
+// printing out java version without cmd prompt
+
 public class javainstalled {
     public static void main(String[] args) {
         System.out.println("Java Version: "+System.getProperty("java.version") );
