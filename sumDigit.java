@@ -1,3 +1,4 @@
+//Entering a line of numbers .Now calculate the sum of all digits of that entered line.
 
 public class sumDigit {
     public static int digitsum(int i){
