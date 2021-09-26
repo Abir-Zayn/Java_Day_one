@@ -1,3 +1,5 @@
+//A program that shows a multiplication table of a number
+
 import java.util.*;
 
 public class multiplication {
