@@ -1,3 +1,5 @@
+//Asking for 2 values from user and show the sum of 2 int to binary .
+
 import java.util.*;
 public class octal {
 
